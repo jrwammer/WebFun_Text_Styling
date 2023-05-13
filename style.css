@@ -1,0 +1,22 @@
+h1{
+    color:aqua;
+    background-color:black;
+    padding-left:20px;
+}
+
+span{
+    color:skyblue
+}
+
+h2{
+    text-align: center;
+    color:white;
+    background-color: rebeccapurple;
+}
+
+h3{
+    text-align: right;
+    text-decoration: underline;
+    background-color:skyblue ;
+    color:rebeccapurple
+}
